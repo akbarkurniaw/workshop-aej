@@ -53,7 +53,10 @@ git checkout [namabranchtujuan]
 ```
 git merge [namabranch]
 ```
-
+5. Mengatasi conflict
+```
+git status
+```
 
 
 
