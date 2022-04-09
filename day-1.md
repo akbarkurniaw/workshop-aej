@@ -2,7 +2,7 @@
 
 ## Practice 1: Operasi Dasar GIT
 > Dengan Practice pertama ini kita akan belajar operasi dari git, kita akan mempelajari operasi dasar seperti membuat repository, menambahkan remote/cloud repository, melihat status perubahan dan lain sebagainya. 
-> operasi dasar akan sangat dibutuhkan di practice practice berikutnya, jadi kita akan focus disini dalam beberapa waktu kedepan
+> Operasi dasar akan sangat dibutuhkan di practice practice berikutnya, jadi kita akan focus disini dalam beberapa waktu kedepan.
 ***
 1. Digunakan untuk membuat directory menjadi repository
 ```
